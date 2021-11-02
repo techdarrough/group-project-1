@@ -5,7 +5,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: rgb(217, 234, 240);
-    color: #555;
+    color: rgb(92, 87, 87);
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
@@ -39,4 +39,10 @@ main h2 {
 
 .codys-styles {
     background:rgb(92, 149, 235);
+}
+
+.preston-style {
+    color: rgb(124, 108, 116);
+    background-color: black;
+    padding: 3px;
 }
